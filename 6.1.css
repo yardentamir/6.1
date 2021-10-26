@@ -1,0 +1,15 @@
+#HW1 {
+  border: 1px solid red;
+  font-size: 2em;
+  border-radius: 20px;
+}
+#HW2 {
+  font-weight: bold;
+  font-style: italic;
+}
+#HW3 {
+  background-color: black;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  color: white;
+  font-family: monospace;
+}
